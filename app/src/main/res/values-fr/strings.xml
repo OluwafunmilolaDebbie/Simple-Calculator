@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculatrice Simple</string>
+    <string name="firstNumberEditText">Entrez le premier chiffre</string>
+    <string name="firstNumberEditTextOne">Etrez le deuxieme chiffre</string>
+    <string name="addButton">AJOUTER</string>
+    <string name="subButton">MOINS</string>
+    <string name="divButton">DIVISER</string>
+    <string name="mulButton">MULTIPLIER</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="firstNumberEditText">Enter first number</string>
+    <string name="firstNumberEditTextOne">Input second Number</string>
+    <string name="addButton">ADD</string>
+    <string name="subButton">SUB</string>
+    <string name="divButton">DIV</string>
+    <string name="mulButton">MUL</string>
+</resources>

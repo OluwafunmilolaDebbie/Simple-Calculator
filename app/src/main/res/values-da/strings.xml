@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">Enkel Lommeregner</string>
+    <string name="firstNumberEditText">Indtast forste nummer</string>
+    <string name="firstNumberEditTextOne">Indtast andet nummer</string>
+    <string name="addButton">TILF</string>
+    <string name="subButton">MINUS</string>
+    <string name="divButton">DELE</string>
+    <string name="mulButton">FORMERE</string>
+</resources>
